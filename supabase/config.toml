@@ -1,0 +1,10 @@
+project_id = "qioswxqmdymmprmonswk"
+
+[functions.telegram-bot]
+verify_jwt = false
+
+[functions.reminder-cron]
+verify_jwt = false
+
+[functions.accumulator-predictions]
+verify_jwt = false
